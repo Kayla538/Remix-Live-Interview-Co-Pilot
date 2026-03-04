@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Live Interview Co-Pilot",
+  "description": "Real-time AI assistant for interviews. Join a meeting room and get human-sounding coaching whispered in your ear as the interviewer speaks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
